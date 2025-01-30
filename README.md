@@ -1,2 +1,2 @@
-# explore_openai
-Integrate OpenAi API's with DRF
+# explore_openai_fastapi
+Integrate OpenAi API's with FastAPI.

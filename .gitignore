@@ -1,0 +1,11 @@
+venv
+/media
+.env
+
+
+# Alembic
+alembic/versions/*.pyc
+alembic/versions/__pycache__/
+
+# Alembic migration logs (if any)
+alembic.log
